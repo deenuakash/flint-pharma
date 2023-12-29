@@ -6,4 +6,11 @@
 
 body {
   font-family: "Montserrat", Helvetica, sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.App {
+  height: 100%;
+  margin: 16px;
 }
